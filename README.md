@@ -1,6 +1,6 @@
 # Hi, I'm Bassem Ghorbel 👋
 
-I'm a PhD student in **Computer Science at Colorado State University**, working on **formal methods, verification, and cyber-physical systems**.
+I'm a PhD researcher in **Computer Science at Colorado State University**, working on **formal methods, verification, and cyber-physical systems**.
 
 My research focuses on developing efficient techniques for specifying, monitoring, and verifying the behavior of complex systems using **temporal logic**, with a particular focus on **Metric Temporal Logic (MTL), Signal Temporal Logic (STL), and STL***.
 
