@@ -45,7 +45,7 @@ I have teaching and mentoring experience across several computer science courses
 ## 🔗 Links
 
 * [LinkedIn](https://www.linkedin.com/in/bassemghorbel/)
-* [Google Scholar](https://scholar.google.com/citations?user=X8goc-sAAAAJ&hl=en).
+* [Google Scholar](https://scholar.google.com/citations?user=X8goc-sAAAAJ&hl=en)
 * [Resume](https://bassemghorbel.github.io/resume/Bassem_Ghorbel_CV.pdf)
 
 ---
