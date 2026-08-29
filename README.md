@@ -1,55 +1,53 @@
-# Bassem Ghorbel
+# Hi, I'm Bassem Ghorbel 👋
 
-[![Curriculum Vitae](https://img.shields.io/badge/Download-CV%20(PDF)-blue?logo=adobeacrobatreader&logoColor=white)](cv.pdf)
-[![Google Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-bassem%40colostate.edu-D14836?logo=gmail&logoColor=white)](mailto:bassem@colostate.edu)
+I'm a PhD student in **Computer Science at Colorado State University**, working on **formal methods, verification, and cyber-physical systems**.
 
-Ph.D. Researcher in Computer Science at **Colorado State University** specializing in **Formal Methods, Runtime Verification, and Cyber-Physical Systems (CPS)**.
+My research focuses on developing efficient techniques for specifying, monitoring, and verifying the behavior of complex systems using **temporal logic**, with a particular focus on **Metric Temporal Logic (MTL), Signal Temporal Logic (STL), and STL***.
+
+## 🔬 Research Interests
+
+* Formal Methods & Formal Verification
+* Temporal Logic & Runtime Verification
+* Cyber-Physical Systems
+* Model Checking & System Monitoring
+* Verification of AI-Enabled Systems
+* Algorithms & Automated Reasoning
+
+## 💻 Technical Skills
+
+**Programming:** Python, C++, SQL, Verilog
+**Formal Methods:** MTL, STL, STL*, Runtime Verification, Model Checking
+**Tools:** MATLAB, Breach, CPSGrader, MonPoly
+**Other:** Algorithms, VLSI Systems, Digital Signal Processing
+
+## 📚 Education
+
+**PhD in Computer Science**
+Colorado State University
+
+**MS in Electrical Engineering**
+
+## 🏆 Awards & Recognition
+
+* **MEMOCODE Best Paper Award** for research in formal methods and verification
+* **PhD Fellowship** recognizing research and academic work
+
+## 👨‍🏫 Teaching
+
+I have teaching and mentoring experience across several computer science courses at Colorado State University, including:
+
+* Algorithms — CS220
+* CS253
+* CS370
+* CS320
+* Foundations of Cyber-Physical Systems — CS522
+
+## 🔗 Links
+
+* [LinkedIn](YOUR_LINKEDIN_URL)
+* [Google Scholar](YOUR_GOOGLE_SCHOLAR_URL)
+* [Resume](./resume.pdf)
 
 ---
 
-## 🔬 Research Interests & Focus
-
-* **Formal Specification Languages:** Quantitative robustness frameworks and temporal logics with freeze quantifiers ($\text{TPTL}$, $\text{TSTL}$, $\text{STL}^*$) for complex, history-dependent CPS specifications[cite: 2].
-* **Scalable Algorithm Design:** Linear-time and quasi-linear runtime monitoring algorithms leveraging dynamic programming and interval acceleration heuristics.
-* **Theoretical Guarantees:** Mathematical error bounds connecting continuous-time signal semantics with discrete sampled-data robustness under Lipschitz continuity.
-* **Tool Development & Benchmarking:** Prototyping and evaluating high-performance formal verification engines in C++, Python, and MATLAB on large-scale trace benchmarks.
-
----
-
-## 📄 Publications
-
-* **Fast Robust Monitoring for Signal Temporal Logic with Value Freezing Operators ($\text{STL}^*$)**[cite: 2]  
-  *B. Ghorbel, V. S. Prabhu*  
-  **MEMOCODE 2024** — 🏆 **Best Paper Award**[cite: 2]
-
-* **Fast and Scalable Monitoring for Value-Freeze Operator Augmented Signal Temporal Logic**[cite: 2]  
-  *B. Ghorbel, V. S. Prabhu*  
-  **HSCC 2024**[cite: 2]
-
-* **Quantitative Robustness for Signal Temporal Logic With Time-Freeze Quantifiers**[cite: 2]  
-  *B. Ghorbel, V. S. Prabhu*  
-  **IEEE TCAD 2023**[cite: 2]
-
-* **Linear Time Monitoring for One Variable TPTL**[cite: 2]  
-  *B. Ghorbel, V. S. Prabhu*  
-  **HSCC 2022**[cite: 2]
-
----
-
-## 🛠️ Technical Skills
-
-* **Languages:** C/C++, Python, MATLAB, Bash, SQL[cite: 2]
-* **Core Competencies:** Algorithm Design & Complexity Analysis, Formal Verification, Runtime Monitoring, Quantitative Semantics[cite: 2]
-* **Tools & Systems:** Linux, Git, NumPy, Pandas[cite: 2]
-
----
-
-## 🎓 Education
-
-* **Ph.D. in Computer Science (Formal Methods)** | Colorado State University *(Expected Dec 2026)*[cite: 2]  
-  *Robert B. France Fellowship Award Recipient (2025)*[cite: 2]
-* **Diplôme d'Ingénieur (Signals & Systems)** | École Polytechnique de Tunisie *(2018 – 2021)*[cite: 2]
-* **Classes Préparatoires (Math & Physics)** | IPEIS *(2016 – 2018)*[cite: 2]  
-  *National Engineering Exam Rank: 57 / 2000*[cite: 2]
+*Interested in formal verification, trustworthy systems, and applying research to real-world engineering problems.*
