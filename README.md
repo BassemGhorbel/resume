@@ -15,10 +15,9 @@ My research focuses on developing efficient techniques for specifying, monitorin
 
 ## 💻 Technical Skills
 
-**Programming:** Python, C++, SQL, Verilog
-**Formal Methods:** MTL, STL, STL*, Runtime Verification, Model Checking
-**Tools:** MATLAB, Breach, CPSGrader, MonPoly
-**Other:** Algorithms, VLSI Systems, Digital Signal Processing
+**Programming:** Python, C++, MATLAB, C
+**Other:** SQL, Verilog, Bash, Git
+**Languages:** Arabic (Native), French (Bilingual), English (Fluent)
 
 ## 📚 Education
 
@@ -26,26 +25,27 @@ My research focuses on developing efficient techniques for specifying, monitorin
 Colorado State University
 
 **MS in Electrical Engineering**
+École Polytechnique de Tunisie
 
 ## 🏆 Awards & Recognition
 
-* **MEMOCODE Best Paper Award** for research in formal methods and verification
-* **PhD Fellowship** recognizing research and academic work
+* **MEMOCODE 2024 Best Paper Award** for research in formal methods and verification
+* **Robert B. France Fellowship Award** recognizing research and academic work
 
 ## 👨‍🏫 Teaching
 
 I have teaching and mentoring experience across several computer science courses at Colorado State University, including:
 
-* Algorithms — CS220
-* CS253
-* CS370
-* CS320
+* Discrete Structures and their Applications - CS220
+* Software Development with C++ - CS253
+* Algorithms--Theory and Practice - CS320
+* Operating Systems - CS370
 * Foundations of Cyber-Physical Systems — CS522
 
 ## 🔗 Links
 
-* [LinkedIn](YOUR_LINKEDIN_URL)
-* [Google Scholar](YOUR_GOOGLE_SCHOLAR_URL)
+* [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/bassemghorbel/))
+* [Google Scholar]([YOUR_GOOGLE_SCHOLAR_URL](https://scholar.google.com/citations?user=X8goc-sAAAAJ&hl=en))
 * [Resume](./resume.pdf)
 
 ---
