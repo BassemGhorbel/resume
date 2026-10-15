@@ -16,7 +16,7 @@ My research focuses on developing efficient techniques for specifying, monitorin
 ## 💻 Technical Skills
 
 * **Programming:** Python, C++, MATLAB, C
-* **Other:** SQL, Verilog, Bash, Git
+* **Other:** SQL, Bash, Git
 * **Languages:** Arabic (Native), French (Bilingual), English (Fluent)
 
 ## 📚 Education
