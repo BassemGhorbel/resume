@@ -29,7 +29,7 @@ Colorado State University
 
 ## 🏆 Awards & Recognition
 
-* **MEMOCODE 2024 Best Paper Award** for research in formal methods and verification
+* **MEMOCODE 2024 Best Paper Award** for research in formal methods and runtime verification
 * **Robert B. France Fellowship Award** recognizing research and academic work
 
 ## 👨‍🏫 Teaching
@@ -47,6 +47,7 @@ I have teaching and mentoring experience across several computer science courses
 * [LinkedIn](https://www.linkedin.com/in/bassemghorbel/)
 * [Google Scholar](https://scholar.google.com/citations?user=X8goc-sAAAAJ&hl=en)
 * [Resume](https://bassemghorbel.github.io/resume/Bassem_Ghorbel_CV.pdf)
+* [STL* Monitor](https://github.com/BassemGhorbel/stl-star-monitor)
 
 ---
 
